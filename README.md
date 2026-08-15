@@ -32,7 +32,7 @@ The platform provides separate functionality for farmers, agricultural experts, 
 
 ## ✨ Key Features
 
-### 👨‍🌾 Farmer Features
+###  Farmer Features
 
 - **Authentication & Security**: Registration, login, and JWT-based session management.
 - **Profile Management**: Update farmer details, contact info, and location.
@@ -72,22 +72,22 @@ The platform provides separate functionality for farmers, agricultural experts, 
 
 ## 🌱 Agricultural Advisory Modules
 
-### 🌾 Crop Advisory
+###  Crop Advisory
 Provides useful crop-related information and recommendations to help farmers understand crop requirements, ideal soil types, temperature ranges, and optimal farming practices.
 
-### 🐛 Disease Advisory
+###  Disease Advisory
 Provides comprehensive information about common crop diseases, early visual symptoms, biological and chemical prevention methods, and recommended management practices.
 
-### 🧪 Fertilizer Advisory
+###  Fertilizer Advisory
 Provides fertilizer-related guidance based on crop type, growth stages, NPK nutrient requirements, and soil health conditions.
 
-### 🌤️ Weather Advisory
+###  Weather Advisory
 Provides weather information and forecasts that can help farmers plan critical agricultural activities like irrigation, sowing, harvesting, and spraying.
 
-### 📈 Market Advisory
+###  Market Advisory
 Provides agricultural market price information (APMC mandi prices) to help farmers understand current market conditions, demand, and fair price realization.
 
-### 📜 Government Schemes
+###  Government Schemes
 Provides structured information about national and state-level agricultural government schemes, financial subsidies, crop insurance, and eligibility requirements.
 
 ---
@@ -103,7 +103,7 @@ The system provides multi-channel communication between farmers and agricultural
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework**: [React 18](https://react.dev/) + [Vite](https://vitejs.dev/)
@@ -124,7 +124,7 @@ The system provides multi-channel communication between farmers and agricultural
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```text
                     ┌─────────────────────┐
@@ -166,7 +166,7 @@ The system provides multi-channel communication between farmers and agricultural
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 Digital Farmer Support & Advisory System/
@@ -208,7 +208,7 @@ Ensure you have the following software installed locally:
 
 ---
 
-### 💻 Local Installation & Setup
+###  Local Installation & Setup
 
 1. **Clone the Repository**
    ```bash
@@ -258,7 +258,7 @@ Ensure you have the following software installed locally:
 
 ---
 
-## 🔒 Security & Best Practices
+##  Security & Best Practices
 
 - **Protected Environment Variables**: Credentials, API keys, and database connection strings are stored securely in `.env` files and excluded from Git via `.gitignore`.
 - **JWT Authentication**: Passwords hashed with `bcryptjs`, requests authenticated via HTTP headers.
@@ -266,13 +266,13 @@ Ensure you have the following software installed locally:
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the **ISC License**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shivakumar Shivayogi**
 - GitHub: [@shivakumarshivayogi](https://github.com/shivakumarshivayogi)
